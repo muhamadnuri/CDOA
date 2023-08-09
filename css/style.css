@@ -1,0 +1,16 @@
+@media print {
+   .navbar{
+    display: none;
+}
+   .anone{
+    display: none;
+   }
+   .tbp{
+    max-height: fit-content !important;
+    
+   }
+   .tbpi{
+   
+    border: 1px black solid !important;
+   }
+ }
